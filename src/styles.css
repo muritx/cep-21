@@ -1,0 +1,11 @@
+:root{
+    --cor-de-fundo:#201b2c;
+    --cor-caixa-login:#2f2841;
+    --cor-texto:#77ffc0;
+    --cor-botao:#04ad5e;
+}
+
+/* body{
+    background-color: var(--cor-de-fundo);
+    height: 100vh;
+} */
